@@ -1,6 +1,2 @@
-
-
-## example
-
-TODO
+### Wollok Game
 
