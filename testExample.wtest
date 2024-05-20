@@ -1,0 +1,9 @@
+import juego.*
+
+describe "gropo de tests" {
+
+  test "persona existe" {
+    assert.equals(persona,persona)
+  }
+
+}
